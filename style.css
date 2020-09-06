@@ -1,0 +1,450 @@
+/*
+	Template Name 	: Dfolio - Multipurpose Responsive Bootstrap HTML Template
+	Author			: LEARNWPTECH
+	Template URI	: https://dfolio.wpcoderpro.com
+	Created Date	: 01-04-2020
+	Last Update		: 01-04-2020
+
+---======================================================---
+
+TABLE OF CONTENT
+
+---======================================================---
+1. General Styles
+2. Header Styles
+3. Slider Styles
+4. About Styles
+5. Service Styles
+6. Facilities Styles
+7. Blog Styles
+8. Projects Styles
+9. Widgets Styles
+10. Footer Styles
+
+
+*/
+
+/* General Styles */
+.dalwa {
+	text-indent: 10px;
+}
+body{
+	margin: 0;
+	color: #222222;
+	background-color: #f8f8f8;
+	font-size: 15px;
+	font-family: 'Ubuntu', sans-serif;
+}
+ul, ol {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+a {
+	color: #222222;
+	display: inline-block;
+	transition: .3s;
+	font-size: 14px;
+}
+a:hover {
+	text-decoration: none;
+	color: #222222;
+}
+textarea:hover, input:hover, textarea:active, input:active, textarea:focus, input:focus, button:focus, button:active, button:hover, label:focus, .btn:active, .btn.active{
+    outline:0px !important;
+    -webkit-appearance:none;
+    box-shadow: none !important;
+}
+.active {
+	color: #007BFF !important;
+}
+.preloader {
+	width: 100%;
+	height: 100%;
+	background: #ffffff;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 9999;
+}
+.preloader img {
+	background: #ffffff;
+	position: fixed;
+	top: 45%;
+	left: 45%;
+	z-index: 99999;
+}
+.overlay {
+	position: relative;
+	z-index: 1;
+}
+.overlay:after {
+	content: "";
+	background: #000 none repeat scroll 0 0;
+	opacity: .5;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	left: 0;
+	top: 0;
+	z-index: -1;
+}
+.site-logo a img {
+	width: 110px;
+	height: auto;
+}
+.btn, .btn:hover {
+	border: 1px solid transparent;
+	border-radius: 20px;
+	padding: 6px 20px;
+	font-size: 1rem;
+}
+.title h2 {
+	font-size: 3rem;
+}
+.separator {
+	width: 8%;
+	height: 5px;
+}
+.description p {
+	font-size: 15px;
+	width: 60%;
+}
+.page-bg {
+	background: #222222 url("img/page-bg.jpg") no-repeat right top;
+	padding: 200px 0;
+}
+.breadcrumb {
+	background: transparent;
+}
+.breadcrumb-item {
+	font-weight: bold;
+	transition: .3s;
+}
+.breadcrumb-item a:hover {
+	color: #007BFF;
+}
+/* Header Styles */
+.header-social ul li, .footer-social ul li {
+	display: inline-block;
+}
+.header-social ul li a, .footer-social ul li a {
+	vertical-align: middle;
+	font-size: 18px;
+	color: #ffffff;
+}
+.header-social ul li a:hover, .footer-social ul li a:hover {
+	color: #f8f8f8;
+}
+#site_nav .navbar-nav li a:hover {
+	color: #007bff;
+}
+.header-social ul li a:after {
+	clear: both;
+	content: "|";
+	margin: 0 5px;
+}
+.header-social ul li:last-child a:after{
+	content: '';
+	clear: inherit;
+}
+.nav-fixed {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 10;
+	width: 100%;
+	background: #ffffff;
+	animation: .5s slideInDown both;
+}
+.navbar-nav .has-sub {
+	position: relative;
+}
+.navbar-nav .has-sub > a:after {
+	content: '\ea99';
+	display: inline-block;
+	margin-left: 5px;
+	font-family: Icofont;
+	font-size: 16px;
+}
+
+
+@-webkit-keyframes navAnimation {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 10%, 0);
+    transform: translate3d(0, 10%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes navAnimation {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 10%, 0);
+    transform: translate3d(0, 10%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.navAnimation {
+  -webkit-animation-name: navAnimation;
+  animation-name: navAnimation;
+}
+
+.navbar-nav .has-sub .submenu {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	z-index: 9999;
+	background: #ffffff;
+	min-width: 150px;
+	animation: .5s navAnimation ease;
+	display: none;
+}
+.navbar-nav .has-sub:hover .submenu {
+	display: block;
+}
+.scrolltop {
+	position: fixed;
+	bottom: 30px;
+	right: 30px;
+	z-index: 20;
+	display: none;
+}
+.scrolltop a {
+	display: block;
+	padding: 0 8px;
+	background-color: #074DF8;
+	color: #ffffff;
+	font-size: 25px;
+	transition: .3s;
+	scroll-behavior: smooth;
+}
+.scrolltop a:hover {
+	background-color: #ffffff;
+	color: #074DF8;
+}
+#site_nav .navbar-nav li a {
+	color: #222222;
+	font-size: 15px;
+	text-transform: uppercase;
+	padding: 5px 10px;
+	margin: 0 5px;
+	font-family: Roboto;
+	font-weight: bold;
+}
+#site_nav .navbar-nav > li > a {
+	padding: 20px 10px;
+}
+/* Slider Styles */
+
+.owl-carousel {
+	position: relative;
+}
+.slide1 {
+	background-image: url('img/slider/1.jpg');
+}
+.slide2 {
+	background-image: url('img/slider/2.jpg');
+}
+.slide3 {
+	background-image: url('img/slider/3.jpg');
+}
+.slide-item {
+	padding: 200px 0;
+	background-position: center;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.home-slider .owl-nav {
+	position: absolute;
+	bottom: 0;
+	left: 45%;
+	z-index: 1000;
+}
+.home-slider .owl-nav button i {
+	font-size: 25px;
+	color: #fff;
+}
+
+/* Services Styles */
+.service-item {
+	transition: .5s;
+	border-radius: 5px;
+}
+.service-icon i {
+	font-size: 40px;
+	border-radius: 50%;
+	display: inline-block;
+	padding: 10px;
+}
+.service-item:hover {
+	background: #007bff;
+	color: #ffffff;
+	border-color: transparent !important;
+}
+.service-item:hover .service-icon i{
+	background: #ffffff;
+	border-color: transparent !important;
+	color: #007bff;
+}
+
+/* Facilities Styles */
+
+.site-list ul li {
+	font-weight: bold;
+}
+.site-list ul li:before {
+	content: '\ea8c';
+	font-family: Icofont;
+	display: inline-block;
+	margin-right: 5px;
+	font-size: 20px;
+	color: #007bff;
+}
+
+/* Blog Styles */
+.post-thumb a img {
+	transition: .5s;
+}
+h5.card-title a {
+	font-size: 1.2rem;
+}
+.card:hover .post-thumb a img {
+	-moz-transform: scale(1.5);
+	-webkit-transform: scale(1.5);
+	-o-transform: scale(1.5);
+	-ms-transform: scale(1.5);
+	transform: scale(1.5);
+}
+.comments img {
+	width: 64px;
+	height: 64px;
+}
+.reply {
+	border: 1px solid #222222;
+	padding: 3px 5px;
+}
+/* Projects Styles */
+.project-nav ul li {
+	border: 1px solid #007bff;
+	padding: 5px 15px;
+	font-weight: bold;
+	cursor: pointer;
+	transition: .3s;
+}
+.project-nav ul li:hover {
+	background: #007bff;
+	color: #ffffff;
+}
+.projects-items a .card-title{
+	transition: .3s;
+}
+.projects-items a:hover .card-title{
+	color: #007bff;
+}
+.mixitup-control-active {
+	background-color: #007BFF !important;
+	color: #ffffff;
+}
+
+/* Widgets Styles */
+
+.footer-widget .widget-content ul li a {
+	color: #ffffff;
+	padding: 3px 0;
+}
+.sidebar-widget .widget-content ul li a {
+	border-bottom: 1px solid #222222;
+	display: block;
+	padding: 8px 5px;
+	font-size: 16px;
+}
+.sidebar-widget .widget-content .media-body h6, .sidebar-widget .widget-content .media-text {
+	color: #222222;
+	transition: .3s;
+}
+.footer-widget .widget-content .media-body h6, .footer-widget .widget-content .media-text {
+	color: #ffffff;
+	transition: .3s;
+}
+.footer-widget .widget-content .media-text, .sidebar-widget .widget-content .media-text {
+	font-size: 14px;
+}
+.widget-content .tags li a {
+	border: 1px solid #ffffff;
+	padding: 0 10px !important;
+	margin-bottom: 5px;
+	transition: .3s;
+}
+.sidebar-widget .widget-content .tags li a, .sidebar-widget .widget-content ul li a:hover {
+	border-color: #007BFF;
+}
+.sidebar-widget .widget-content .tags li a:hover, .reply:hover {
+	border-color: #007BFF;
+	background: #007BFF;
+	color: #ffffff;
+}
+.widget-content ul li a:hover, .widget-content .media-body h6:hover {
+	color: #007BFF;
+}
+.widget-content .tags li a:hover {
+	background: #ffffff;
+	color: #007BFF;
+}
+.footer-social ul li a {
+	border: 1px solid #ffffff;
+	padding: 0 8px;
+	margin: 0 5px;
+}
+.footer-social ul li a:hover {
+	background: #007BFF;
+	border-color: #007BFF;
+	color: #ffffff;
+}
+.sidebar-widget .widget-title h5 {
+	color: #222222;
+}
+.sidebar-widget .widget-title .separator {
+	background-color: #222222;
+}
+.footer-widget .widget-title h5 {
+	color: #ffffff;
+}
+.footer-widget .widget-title .separator {
+	background-color: #ffffff;
+}
+
+/* Footer Styles */
+.copyright {
+	background: #222222;
+}
+.copyright-text a {
+	transition: .3s;
+}
+.copyright-text a:hover {
+	color: #007BFF !important;
+}
+.icon i {
+	display: inline-block;
+	margin-top: 0.8rem;
+	margin-right: 0.8rem;
+	font-size: 25px;
+	color: #007BFF;
+}
+.google-map iframe {
+	width: 100%;
+	height: 500px;
+	margin-top: 2rem;
+}

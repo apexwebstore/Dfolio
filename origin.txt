@@ -1,0 +1,200 @@
+Uri: https://dfolio.wpcoderpro.com/
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\index.htm
+Content Type: text/html
+
+Uri: https://dfolio.wpcoderpro.com/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://dfolio.wpcoderpro.com/css/icofont.min.css
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\css\icofont.min.css
+Content Type: text/css
+
+Uri: https://dfolio.wpcoderpro.com/css/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://dfolio.wpcoderpro.com/css/owl.theme.default.min.css
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://dfolio.wpcoderpro.com/css/animate.css
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\css\animate.css
+Content Type: text/css
+
+Uri: https://dfolio.wpcoderpro.com/style.css
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\style.css
+Content Type: text/css
+
+Uri: https://dfolio.wpcoderpro.com/css/responsive.css
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\css\responsive.css
+Content Type: text/css
+
+Uri: https://dfolio.wpcoderpro.com/index.html
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\index.html
+Content Type: text/html
+
+Uri: https://dfolio.wpcoderpro.com/about.html
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\about.html
+Content Type: text/html
+
+Uri: https://dfolio.wpcoderpro.com/service-3-column.html
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\service-3-column.html
+Content Type: text/html
+
+Uri: https://dfolio.wpcoderpro.com/service-4-column.html
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\service-4-column.html
+Content Type: text/html
+
+Uri: https://dfolio.wpcoderpro.com/portfolio.html
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\portfolio.html
+Content Type: text/html
+
+Uri: https://dfolio.wpcoderpro.com/blog-full-width.html
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\blog-full-width.html
+Content Type: text/html
+
+Uri: https://dfolio.wpcoderpro.com/blog-left-sidebar.html
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\blog-left-sidebar.html
+Content Type: text/html
+
+Uri: https://dfolio.wpcoderpro.com/blog-right-sidebar.html
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\blog-right-sidebar.html
+Content Type: text/html
+
+Uri: https://dfolio.wpcoderpro.com/blog-single.html
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\blog-single.html
+Content Type: text/html
+
+Uri: https://dfolio.wpcoderpro.com/contact.html
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\contact.html
+Content Type: text/html
+
+Uri: https://dfolio.wpcoderpro.com/img/preloader.gif
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\preloader.gif
+Content Type: image/gif
+
+Uri: https://dfolio.wpcoderpro.com/img/logo.png
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\logo.png
+Content Type: image/png
+
+Uri: https://dfolio.wpcoderpro.com/img/about.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\about.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/project/1.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\project\1.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/project/2.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\project\2.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/project/3.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\project\3.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/project/4.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\project\4.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/project/5.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\project\5.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/project/6.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\project\6.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/facilities.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\facilities.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/resources/1.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\resources\1.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/resources/2.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\resources\2.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/resources/3.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\resources\3.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/resources/4.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\resources\4.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/blog/1.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\blog\1.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/blog/2.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\blog\2.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/blog/3.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/blog/4.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\blog\4.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/blog/5.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\blog\5.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/blog/6.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\blog\6.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/js/jquery-3.4.1.min.js
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\js\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://dfolio.wpcoderpro.com/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://dfolio.wpcoderpro.com/js/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://dfolio.wpcoderpro.com/js/mixitup.min.js
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\js\mixitup.min.js
+Content Type: application/javascript
+
+Uri: https://dfolio.wpcoderpro.com/js/wow.min.js
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://dfolio.wpcoderpro.com/js/custom.js
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\js\custom.js
+Content Type: application/javascript
+
+Uri: https://dfolio.wpcoderpro.com/css/fonts/icofont.woff2
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\css\fonts\icofont.woff2
+Content Type: font/woff2
+
+Uri: https://dfolio.wpcoderpro.com/css/fonts/icofont.woff
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\css\fonts\icofont.woff
+Content Type: font/woff
+
+Uri: https://dfolio.wpcoderpro.com/img/page-bg.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\page-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/slider/1.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\slider\1.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/slider/2.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\slider\2.jpg
+Content Type: image/jpeg
+
+Uri: https://dfolio.wpcoderpro.com/img/slider/3.jpg
+File Name: c:\Downloaded Web Sites\dfolio.wpcoderpro.com\img\slider\3.jpg
+Content Type: image/jpeg
+
